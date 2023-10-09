@@ -15,7 +15,7 @@ Thank you for improving the security of our open source software.
 We appreciate your efforts and responsible disclosure and will
 make every effort to acknowledge your contributions.
 
-Report security vulnerabilities by creating a request to the Cloud One Community security team [here](https://github.com/trendmicro/v1-cloud-community/security/advisories/new)
+Report security vulnerabilities by creating a request to the Cloud One Community security team [here](https://github.com/trendmicro/tm-v1/security/advisories/new)
 
 The lead maintainer will acknowledge your request, and will
 send a more detailed response indicating the next steps in 
