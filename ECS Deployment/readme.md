@@ -19,7 +19,8 @@ This project assumes that you have already deployed the Vision One Container Sec
 <img width="600" alt="image" src="https://github.com/robinp77/tm-v1-containersecurity/assets/63721250/66bc9435-b5dc-435f-8f3b-59f16584b37a">
 
 
-It also assumes that you have already created an Amazon Elastic Container Registry ( ECR) and have pushed an image to your repository. For details on pushing a docker image to ECR, please see here: https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html
+It also assumes that you have already created an Amazon Elastic Container Registry ( ECR) and have pushed an image to your repository. For details on pushing a docker image to ECR, please see here: 
+https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html
 
 
 Feedback and contributions welcome!
