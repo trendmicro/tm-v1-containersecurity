@@ -15,6 +15,7 @@ Additional optional variables include the port mapping for the container. In thi
 ## Assumptions
 
 This project assumes that you have already deployed the Vision One Container Security cloudformation Template and inegrated your AWS Account within the platform. It is recommended that all features are deployed for full visibility and telemetry to be sent to the Vision One platform:
+
 <img width="600" alt="image" src="https://github.com/robinp77/tm-v1-containersecurity/assets/63721250/66bc9435-b5dc-435f-8f3b-59f16584b37a">
 
 
